@@ -1,2 +1,4 @@
 # Ciphersite
-The website for cyber security club of IIIT Naya Raipur
+Made website of CipherCell  - The cybersecurity club of IIIT Naya Raipur 
+using CSS, java Script and node js
+
